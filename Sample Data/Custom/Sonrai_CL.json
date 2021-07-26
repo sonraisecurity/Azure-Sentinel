@@ -9,7 +9,7 @@
             "swimlanes": [ { "srn": "srn:exampleOrg::Swimlane/40620d5a-d28d-4548-93a3-a3e527ce6823", "title": "testlane" } ],
             "severity": 15,
             "evidence": null,
-            "criticalResourceSRN": "srn:aws:iam::284563492725/Role/singh-test-prod",
+            "criticalResourceSRN": "srn:aws:iam::123456789012/Role/singh-test-prod",
             "resourceType": "Role",
             "resourceLabel": "Role",
             "account": null,
